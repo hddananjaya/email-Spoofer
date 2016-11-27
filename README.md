@@ -1,2 +1,3 @@
 # E-mail-MMS-Sender-Spoofer--spoofer.py
- I hand-code a tool regarding this. This wizad type python tool help pt's to send sender unkown email or mms. It can be used pentrating testers for social engenerring attacks. Also it has mass mail attack feature. so pt can send email for thousand of accounts using mail-list. But big mail providers like gmail etc, doesn't support with this. so pt have a find out another one. I personally use fastmail.(i dont have any connection with fastmail guys, just found form google.) 
+This wizad type python tool help pt's to send sender unkown email or mms. It can be used pentrating testers for social engenerring attacks. Also it has mass mail attack feature. so pt can send email for thousand of accounts using mail-list.
+Education purposes only!
