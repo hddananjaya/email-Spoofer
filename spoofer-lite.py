@@ -1,6 +1,6 @@
 #
 # spoofer-lite.py
-# -SL4A version for Spoofer.py- 
+# -Lite version for Spoofer.py- 
 # 
 # By 	: @_hddananjaya
 #
